@@ -1,4 +1,8 @@
-# material-palenight README
+![Material Palenight logo](https://github.com/sjbavier/material-palenight/blob/main/logo.webp?raw=true)
+
+# Material Palenight
+
+![Material Palenight banner](https://github.com/sjbavier/material-palenight/blob/main/banner.webp?raw=true)
 
 This is a minimal dark theme inspired from Material Pale Night High Contrast.
 
