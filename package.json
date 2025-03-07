@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "icon": "logo.png",
   "repository": "git+https://github.com/sjbavier/material-palenight.git",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.98.0"
   },
