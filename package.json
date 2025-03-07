@@ -1,8 +1,9 @@
 {
   "name": "material-palenight",
   "displayName": "Material Palenight",
-  "description": "The original Palenight",
+  "description": "The original Palenight theme",
   "version": "0.0.1",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.98.0"
   },
